@@ -29,13 +29,13 @@ print("\n")
 #print(c+1)
 print("hello world")
 
-def addandmultiply(a,b):
+def add_and_multiply(a,b):
 	print(a+b)
 	print(a*b)
 
 
-addandmultiply(10,20)
-addandmultiply(2,19)
-addandmultiply(102,339)
+add_and_multiply(10,20)
+add_and_multiply(2,19)
+add_and_multiply(102,339)
 
 print(round(1.22322342342342323423,3))
